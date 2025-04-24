@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Arpita1234-6294
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This project is a web-based platform designed to provide mental health support, guidance, and resources for individuals seeking help. It offers a safe space to explore mental well-being through self-assessment tools, educational content, and AI-powered chatbot assistance.
 
-<!---
-Arpita1234-6294/Arpita1234-6294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Features
+🧾 AI Symptom Checker: Users can check symptoms and get suggestions for possible mental health conditions.
+
+💬 AI Chatbot Support: A friendly chatbot offers basic mental health guidance and coping strategies.
+
+📚 Educational Content: Articles and tips about mindfulness, stress management, anxiety, depression, and more.
+
+🧘‍♀️ Meditation & Self-Care Section: Interactive content to help users relax and improve focus.
+
+🧭 NGO & Helpline Directory: List of mental health NGOs and emergency contact numbers.
